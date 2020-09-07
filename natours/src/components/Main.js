@@ -5,16 +5,13 @@ import Tours from "./Tours";
 
 
 const Main = () => {
-
     return (
         <main>
             <About/>
             <Features/>
             <Tours/>
         </main>
-
     )
-
 }
 
 export default Main;
