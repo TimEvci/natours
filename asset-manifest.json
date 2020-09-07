@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/natours/static/css/main.903d0fa3.chunk.css",
-    "main.js": "/natours/static/js/main.25367441.chunk.js",
-    "main.js.map": "/natours/static/js/main.25367441.chunk.js.map",
+    "main.js": "/natours/static/js/main.a071d94d.chunk.js",
+    "main.js.map": "/natours/static/js/main.a071d94d.chunk.js.map",
     "runtime-main.js": "/natours/static/js/runtime-main.790254ec.js",
     "runtime-main.js.map": "/natours/static/js/runtime-main.790254ec.js.map",
     "static/js/2.2c4d7a3f.chunk.js": "/natours/static/js/2.2c4d7a3f.chunk.js",
     "static/js/2.2c4d7a3f.chunk.js.map": "/natours/static/js/2.2c4d7a3f.chunk.js.map",
     "index.html": "/natours/index.html",
-    "precache-manifest.5f3c4db2655bb025051c660637f263df.js": "/natours/precache-manifest.5f3c4db2655bb025051c660637f263df.js",
+    "precache-manifest.8d93b06d555c37ea124426eebc53d9bc.js": "/natours/precache-manifest.8d93b06d555c37ea124426eebc53d9bc.js",
     "service-worker.js": "/natours/service-worker.js",
     "static/css/main.903d0fa3.chunk.css.map": "/natours/static/css/main.903d0fa3.chunk.css.map",
     "static/js/2.2c4d7a3f.chunk.js.LICENSE.txt": "/natours/static/js/2.2c4d7a3f.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.790254ec.js",
     "static/js/2.2c4d7a3f.chunk.js",
     "static/css/main.903d0fa3.chunk.css",
-    "static/js/main.25367441.chunk.js"
+    "static/js/main.a071d94d.chunk.js"
   ]
 }
