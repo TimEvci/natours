@@ -1,27 +1,31 @@
 {
   "files": {
-    "main.css": "/natours/static/css/main.7afb1cd0.chunk.css",
-    "main.js": "/natours/static/js/main.cd34e514.chunk.js",
-    "main.js.map": "/natours/static/js/main.cd34e514.chunk.js.map",
+    "main.css": "/natours/static/css/main.28a1ef69.chunk.css",
+    "main.js": "/natours/static/js/main.916b7875.chunk.js",
+    "main.js.map": "/natours/static/js/main.916b7875.chunk.js.map",
     "runtime-main.js": "/natours/static/js/runtime-main.790254ec.js",
     "runtime-main.js.map": "/natours/static/js/runtime-main.790254ec.js.map",
-    "static/js/2.2c4d7a3f.chunk.js": "/natours/static/js/2.2c4d7a3f.chunk.js",
-    "static/js/2.2c4d7a3f.chunk.js.map": "/natours/static/js/2.2c4d7a3f.chunk.js.map",
+    "static/js/2.3a54e3e3.chunk.js": "/natours/static/js/2.3a54e3e3.chunk.js",
+    "static/js/2.3a54e3e3.chunk.js.map": "/natours/static/js/2.3a54e3e3.chunk.js.map",
     "index.html": "/natours/index.html",
-    "precache-manifest.c503612e1e5c7b19f2a0274b2af226ec.js": "/natours/precache-manifest.c503612e1e5c7b19f2a0274b2af226ec.js",
+    "precache-manifest.2c7903e81c8b96676f190e59fc34f5c9.js": "/natours/precache-manifest.2c7903e81c8b96676f190e59fc34f5c9.js",
     "service-worker.js": "/natours/service-worker.js",
-    "static/css/main.7afb1cd0.chunk.css.map": "/natours/static/css/main.7afb1cd0.chunk.css.map",
-    "static/js/2.2c4d7a3f.chunk.js.LICENSE.txt": "/natours/static/js/2.2c4d7a3f.chunk.js.LICENSE.txt",
+    "static/css/main.28a1ef69.chunk.css.map": "/natours/static/css/main.28a1ef69.chunk.css.map",
+    "static/js/2.3a54e3e3.chunk.js.LICENSE.txt": "/natours/static/js/2.3a54e3e3.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/natours/static/media/nat-7.5f846d16.jpg",
     "static/media/logo-white.png": "/natours/static/media/logo-white.40d4ef82.png",
     "static/media/nat-1-large.jpg": "/natours/static/media/nat-1-large.7fdf2a88.jpg",
     "static/media/nat-2-large.jpg": "/natours/static/media/nat-2-large.7a25f199.jpg",
-    "static/media/nat-3-large.jpg": "/natours/static/media/nat-3-large.417d3d74.jpg"
+    "static/media/nat-3-large.jpg": "/natours/static/media/nat-3-large.417d3d74.jpg",
+    "static/media/nat-8.jpg": "/natours/static/media/nat-8.14efd82b.jpg",
+    "static/media/nat-9.jpg": "/natours/static/media/nat-9.b525a99b.jpg",
+    "static/media/video.webm": "/natours/static/media/video.f556a2c3.webm",
+    "static/media/video.mp4": "/natours/static/media/video.ffcd876c.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.790254ec.js",
-    "static/js/2.2c4d7a3f.chunk.js",
-    "static/css/main.7afb1cd0.chunk.css",
-    "static/js/main.cd34e514.chunk.js"
+    "static/js/2.3a54e3e3.chunk.js",
+    "static/css/main.28a1ef69.chunk.css",
+    "static/js/main.916b7875.chunk.js"
   ]
 }
