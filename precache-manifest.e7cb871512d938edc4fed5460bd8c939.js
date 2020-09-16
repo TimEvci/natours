@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b20881be1642442f15716da04d18c152",
+    "revision": "ff00db2938edeb8185963a024c61e437",
     "url": "/natours/index.html"
   },
   {
-    "revision": "24562c1f15267cf59c06",
-    "url": "/natours/static/css/main.28a1ef69.chunk.css"
+    "revision": "9979f8514f28ac8c577f",
+    "url": "/natours/static/css/main.b6cfb66e.chunk.css"
   },
   {
-    "revision": "af86959fe3606c00500b",
-    "url": "/natours/static/js/2.3a54e3e3.chunk.js"
+    "revision": "f89b9ab2a0593287555d",
+    "url": "/natours/static/js/2.a9f5fc47.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/natours/static/js/2.3a54e3e3.chunk.js.LICENSE.txt"
+    "url": "/natours/static/js/2.a9f5fc47.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "24562c1f15267cf59c06",
-    "url": "/natours/static/js/main.916b7875.chunk.js"
+    "revision": "9979f8514f28ac8c577f",
+    "url": "/natours/static/js/main.42dfcd43.chunk.js"
   },
   {
     "revision": "5f712d35cf2fa20ceecf",
     "url": "/natours/static/js/runtime-main.790254ec.js"
+  },
+  {
+    "revision": "cd69d3552824dc8e99c3f2953de2735b",
+    "url": "/natours/static/media/hero-small.cd69d355.jpg"
   },
   {
     "revision": "6e09f4102b0d64adc38d21bd9c89a9a7",
@@ -44,12 +48,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/natours/static/media/linea-basic-10.e6763f00.ttf"
   },
   {
+    "revision": "4c42c11f1fc0203483c21f2d6eeb8896",
+    "url": "/natours/static/media/logo-green-1x.4c42c11f.png"
+  },
+  {
+    "revision": "3365abba6477c48e6be892cf6faa8f25",
+    "url": "/natours/static/media/logo-green-2x.3365abba.png"
+  },
+  {
+    "revision": "888043d544c9ed77285afbc360ffd27e",
+    "url": "/natours/static/media/logo-green-small-2x.888043d5.png"
+  },
+  {
     "revision": "40d4ef82deebd0521e91006d961ead40",
     "url": "/natours/static/media/logo-white.40d4ef82.png"
   },
   {
     "revision": "7fdf2a886516e020e300ae6bd544ab7d",
     "url": "/natours/static/media/nat-1-large.7fdf2a88.jpg"
+  },
+  {
+    "revision": "2797561ff2a3de15c850f2744b73b6d1",
+    "url": "/natours/static/media/nat-10.2797561f.jpg"
   },
   {
     "revision": "7a25f1999a15760508f5e6131245aeac",

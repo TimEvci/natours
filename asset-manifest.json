@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/natours/static/css/main.28a1ef69.chunk.css",
-    "main.js": "/natours/static/js/main.916b7875.chunk.js",
-    "main.js.map": "/natours/static/js/main.916b7875.chunk.js.map",
+    "main.css": "/natours/static/css/main.b6cfb66e.chunk.css",
+    "main.js": "/natours/static/js/main.42dfcd43.chunk.js",
+    "main.js.map": "/natours/static/js/main.42dfcd43.chunk.js.map",
     "runtime-main.js": "/natours/static/js/runtime-main.790254ec.js",
     "runtime-main.js.map": "/natours/static/js/runtime-main.790254ec.js.map",
-    "static/js/2.3a54e3e3.chunk.js": "/natours/static/js/2.3a54e3e3.chunk.js",
-    "static/js/2.3a54e3e3.chunk.js.map": "/natours/static/js/2.3a54e3e3.chunk.js.map",
+    "static/js/2.a9f5fc47.chunk.js": "/natours/static/js/2.a9f5fc47.chunk.js",
+    "static/js/2.a9f5fc47.chunk.js.map": "/natours/static/js/2.a9f5fc47.chunk.js.map",
     "index.html": "/natours/index.html",
-    "precache-manifest.2c7903e81c8b96676f190e59fc34f5c9.js": "/natours/precache-manifest.2c7903e81c8b96676f190e59fc34f5c9.js",
+    "precache-manifest.e7cb871512d938edc4fed5460bd8c939.js": "/natours/precache-manifest.e7cb871512d938edc4fed5460bd8c939.js",
     "service-worker.js": "/natours/service-worker.js",
-    "static/css/main.28a1ef69.chunk.css.map": "/natours/static/css/main.28a1ef69.chunk.css.map",
-    "static/js/2.3a54e3e3.chunk.js.LICENSE.txt": "/natours/static/js/2.3a54e3e3.chunk.js.LICENSE.txt",
+    "static/css/main.b6cfb66e.chunk.css.map": "/natours/static/css/main.b6cfb66e.chunk.css.map",
+    "static/js/2.a9f5fc47.chunk.js.LICENSE.txt": "/natours/static/js/2.a9f5fc47.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/natours/static/media/nat-7.5f846d16.jpg",
+    "static/media/logo-green-1x.png": "/natours/static/media/logo-green-1x.4c42c11f.png",
+    "static/media/logo-green-2x.png": "/natours/static/media/logo-green-2x.3365abba.png",
+    "static/media/logo-green-small-2x.png": "/natours/static/media/logo-green-small-2x.888043d5.png",
     "static/media/logo-white.png": "/natours/static/media/logo-white.40d4ef82.png",
     "static/media/nat-1-large.jpg": "/natours/static/media/nat-1-large.7fdf2a88.jpg",
     "static/media/nat-2-large.jpg": "/natours/static/media/nat-2-large.7a25f199.jpg",
@@ -24,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.790254ec.js",
-    "static/js/2.3a54e3e3.chunk.js",
-    "static/css/main.28a1ef69.chunk.css",
-    "static/js/main.916b7875.chunk.js"
+    "static/js/2.a9f5fc47.chunk.js",
+    "static/css/main.b6cfb66e.chunk.css",
+    "static/js/main.42dfcd43.chunk.js"
   ]
 }
